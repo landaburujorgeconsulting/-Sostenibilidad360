@@ -13,11 +13,12 @@ import { getFirestore, collection, addDoc, getDocs, deleteDoc, doc, updateDoc, i
    Reemplazá estos valores con los de tu proyecto en Firebase Console
    ============================================================ */
 const firebaseConfig = {
-  apiKey:            "TU_API_KEY",
-  authDomain:        "TU_PROJECT.firebaseapp.com",
-  projectId:         "TU_PROJECT_ID",
-  messagingSenderId: "TU_SENDER_ID",
-  appId:             "TU_APP_ID"
+  apiKey:            "AIzaSyBrudAYqtfo42yc-eOMq52gbTLFfle4E4g",
+  authDomain:        "sostenibilidad360-94ea0.firebaseapp.com",
+  projectId:         "sostenibilidad360-94ea0",
+  storageBucket:     "sostenibilidad360-94ea0.firebasestorage.app",
+  messagingSenderId: "241520204708",
+  appId:             "1:241520204708:web:2008474b041246f7f57f31"
 };
 
 /* ============================================================
